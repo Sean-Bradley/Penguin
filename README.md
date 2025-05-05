@@ -2,8 +2,8 @@
 
 ![0.jpg](0.jpg)
 ![1.jpg](1.jpg)
-![2.jpg](2.jpg)
-![3.jpg](3.jpg)
+![2.jpg](2.jpeg)
+![3.jpg](3.jpeg)
 ![4.jpg](4.jpg)
 ![5.jpg](5.jpg)
 ![6.jpg](6.jpg)
@@ -24,3 +24,6 @@
 ![21.jpg](21.jpg)
 ![22.jpg](22.jpg)
 ![23.jpg](23.jpg)
+![24.jpg](24.jpg)
+![25.jpg](25.jpg)
+![26.jpg](26.jpeg)
