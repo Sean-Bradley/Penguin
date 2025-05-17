@@ -26,4 +26,6 @@
 ![23.jpg](23.jpg)
 ![24.jpg](24.jpg)
 ![25.jpg](25.jpg)
-![26.jpg](26.jpeg)
+![26.jpg](26.jpg)
+![27.jpg](27.jpg)
+![28.jpg](28.jpg)
